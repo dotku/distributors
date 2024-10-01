@@ -4,7 +4,7 @@ A distributors management system
 
 ## design
 
-1. company registor
+1. company registration
 2. distributor invite
 3. marketing tool
 4. CRM
